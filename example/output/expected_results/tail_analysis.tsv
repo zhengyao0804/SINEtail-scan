@@ -1,0 +1,4 @@
+序列ID	分类	Family	使用的截断点	长度	A含量(%)	PolyA覆盖率(%)	最长连续A	PolyA区域数	重复单元	重复次数	重复单元覆盖率(%)	序列复杂度	序列
+chr1:469-714(-)	Other		unknown_last30bp	30	70.00	66.67	14	2	A	0	0.00	0.670	TACAGCCCTAAAAAGGAAAAAAAAAAAAAA
+chr1:1076-1323(-)	Other		unknown_TAAAAAGAC_fuzzy	14	78.57	57.14	8	1	A	0	0.00	0.750	CAAAAAAACCAAAA
+chr1:6359-6581(+)	A-rich		unknown_last30bp	30	83.33	86.67	15	2	A	0	0.00	0.512	ATTAAAAAAAAACAAAAACAAAAACAAAAA
