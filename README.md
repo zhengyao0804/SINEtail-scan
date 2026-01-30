@@ -78,7 +78,7 @@ python SINE-tail_classification.py --help
 ### Basic Command
 
 ```bash
-python SINE-tail_classification.py <fasta_file> --bed_file <bed_file> [options]
+python SINE-tail_classification.py <fasta_file> --bed <bed_file> [options]
 ```
 
 ### Arguments
